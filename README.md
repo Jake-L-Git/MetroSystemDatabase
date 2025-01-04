@@ -23,12 +23,12 @@ The transportation system in Madrid works by zones: A, B1, B2, B3, C1, C2, (E1, 
  
 Depending on where the client lives or is going to live, the costs will change as in the following.
 
- <img width="270" alt="image" src="https://github.com/user-attachments/assets/44c91487-af5b-4c05-aa28-e666819a85d7" />
+ <img width="400" alt="image" src="https://github.com/user-attachments/assets/44c91487-af5b-4c05-aa28-e666819a85d7" />
  <br />
  Table 1: Madrid Metro Zones
  <br />
  <br />
- <img width="294" alt="image" src="https://github.com/user-attachments/assets/fbae353f-493f-4ec8-b509-79aeb07293d8" />
+ <img width="400" alt="image" src="https://github.com/user-attachments/assets/fbae353f-493f-4ec8-b509-79aeb07293d8" />
  <br />
  Table 2: Pricing base on zone and type of client
 <br />
